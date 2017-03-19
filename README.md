@@ -1,2 +1,2 @@
-# ics111-project-3
-2D Fighting Game
+# Hunters-Ground
+2D Fighting Survival Game made for ICS 111
